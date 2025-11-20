@@ -58,7 +58,7 @@ This repository provides all required materials to conduct a hands-on **Embedded
 
 ---
 
-## 🚀 Embedded System Examples
+## Embedded System Examples
 
 These four progressive examples are located in `/Embedded System`. Each sketch introduces a new concept in embedded programming, sensor interfacing, or IoT communication.
 
@@ -130,6 +130,31 @@ Install the following via Arduino Library Manager:
   - Publish: `Tutor.DHT`
   - Subscribe: `Tutor.LED`
 - Run `mosquitto -v -c MQTT-secure.conf` to start broker with user-password authentication
+
+---
+
+## Future Direction
+
+### Smart-Ring-Health-Analytics-Platform
+
+We will develop a system to estimate HbA1c and Blood Glucose using a Smart Ring and ESP32 monitor.
+
+#### Workflow:
+
+**1. The Smart Ring will record 1-minute PPG data and send it to the ESP32 via Bluetooth.**
+
+**2. The user will manually enter age, gender, BMI, hypertension, and other details in the ESP32 monitor.**
+
+**3. The ESP32 will extract important PPG features, such as:**
+   - Heart rate, heart rate variability (SDNN, RMSSD)
+   - Pulse amplitude, rise/decay time, systolic–diastolic ratio
+   - Notch timing, pulse width, and LF/HF ratio
+
+**4. The ESP32 will combine these PPG features with manual inputs and send them to the Server PC through IoT.**
+
+**5. The Server will use these datasets to train a deep learning model that estimates HbA1c and Blood Glucose.**
+
+**6. Once trained, the ESP32 will communicate with the Server in real time — the PPG and input data will be sent instantly, and the Server will return the HbA1c and Glucose predictions to display on the ESP32 monitor.**
 
 ---
 
