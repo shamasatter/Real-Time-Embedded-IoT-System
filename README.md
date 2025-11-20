@@ -4,6 +4,21 @@ This repository provides all required materials to conduct a hands-on **Embedded
 
 ---
 
+## 👨‍🏫 Authors
+
+**Shama Satter**  
+Biomedical and AIoT Researcher  
+🔗 [Google Scholar](https://scholar.google.com/citations?user=AMwr_8sAAAAJ&hl)  
+🔗 [LinkedIn](https://www.linkedin.com/in/shamasatter/)
+
+**Raihan Bin Mofidul**  
+Embedded Systems & IoT Researcher  
+🔗 [Google Scholar](https://scholar.google.com.au/citations?user=RHXWFqIAAAAJ&hl)
+
+For collaboration or technical queries, please feel free to reach out.
+
+---
+
 ## 📚 Instructions 
 | 🔧 AIoT Development    | 📖 Description                            | 🔗 Details |
 |-------------------|----------------------------------------|---------|
@@ -155,21 +170,6 @@ We will develop a system to estimate HbA1c and Blood Glucose using a Smart Ring 
 **5. The Server will use these datasets to train a deep learning model that estimates HbA1c and Blood Glucose.**
 
 **6. Once trained, the ESP32 will communicate with the Server in real time — the PPG and input data will be sent instantly, and the Server will return the HbA1c and Glucose predictions to display on the ESP32 monitor.**
-
----
-
-## 👨‍🏫 Authors
-
-**Shama Satter**  
-Biomedical and AIoT Researcher  
-🔗 [Google Scholar](https://scholar.google.com/citations?user=AMwr_8sAAAAJ&hl)  
-🔗 [LinkedIn](https://www.linkedin.com/in/shamasatter/)
-
-**Raihan Bin Mofidul**  
-Embedded Systems & IoT Researcher  
-🔗 [Google Scholar](https://scholar.google.com.au/citations?user=RHXWFqIAAAAJ&hl)
-
-For collaboration or technical queries, please feel free to reach out.
 
 ---
 
