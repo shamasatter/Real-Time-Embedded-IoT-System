@@ -5,9 +5,9 @@ This repository provides all required materials to conduct a hands-on **Embedded
 ---
 
 ## 📚 Instructions 
-| 🔧 Component   | 📖 Description                            | 🔗 Details |
+| 🔧 AIoT Development    | 📖 Description                            | 🔗 Details |
 |-------------------|----------------------------------------|---------|
-| 💻 Embedded System    | Arduino sketches and circuit diagrams for FireBeetle 2 ESP32-E with 4 progressive examples | [View](https://github.com/xundullah/Real-Time-Embedded-IoT-System/blob/main/Embedded%20System/Instruction%20on%20Embedded%20System.md) |
+| 💻 Embedded System    | Software sketches and circuit diagrams for FireBeetle 2 ESP32-E with 4 progressive examples | [View](https://github.com/xundullah/Real-Time-Embedded-IoT-System/blob/main/Embedded%20System/Instruction%20on%20Embedded%20System.md) |
 | 🌐 Broker Setup       | Mosquitto broker installation, configuration, and user-password authentication | [View](https://github.com/xundullah/Real-Time-Embedded-IoT-System/blob/main/Broker%20Setup/Instruction%20on%20Broker%20Setup.md) |
 | ☁️ Cloud Operations    | Node-RED dashboard setup, deployment, and real-time visualization widgets | [View](https://github.com/xundullah/Real-Time-Embedded-IoT-System/blob/main/Cloud%20Operations/Instruction%20on%20Cloud%20Operations.md) |
 
