@@ -1,6 +1,6 @@
-# Workshop on: Real-Time-Embedded-IoT-System
+# Proposal of Real-Time-Embedded-IoT-System
 
-This repository provides all required materials to conduct a hands-on **Embedded Systems Workshop** using the **FireBeetle 2 ESP32-E**, MQTT, Node-RED, and cloud-based monitoring.
+This repository provides all required materials to conduct a hands-on **AIoT-enabled Embedded Systems** using the **FireBeetle 2 ESP32-E**, MQTT, Node-RED, and cloud-based monitoring.
 
 ---
 
