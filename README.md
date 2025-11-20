@@ -23,7 +23,7 @@ This repository provides all required materials to conduct a hands-on **Embedded
 
 .
 ├── Broker Setup
-│   ├── configured\_files/
+│   ├── configured_files/
 │   ├── Instruction on Broker Setup.md
 │   └── mosquitto-2.0.22-install-windows.exe
 │
@@ -122,7 +122,12 @@ Install the following via Arduino Library Manager:
 
 ---
 
-## 👨‍🏫 Author
+## 👨‍🏫 Authors
+
+**Shama Satter**  
+Biomedical and AIoT Researcher  
+🔗 [Google Scholar](https://scholar.google.com/citations?user=AMwr_8sAAAAJ&hl)  
+🔗 [LinkedIn](https://www.linkedin.com/in/shamasatter/) ![LinkedIn Icon](link_to_icon)
 
 **Raihan Bin Mofidul**  
 Embedded Systems & IoT Researcher  
