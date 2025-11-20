@@ -14,6 +14,7 @@ Biomedical and AIoT Researcher
 **Raihan Bin Mofidul**  
 Embedded Systems & IoT Researcher  
 🔗 [Google Scholar](https://scholar.google.com.au/citations?user=RHXWFqIAAAAJ&hl)
+🔗 [UTS Profile](https://profiles.uts.edu.au/Raihan.BinMofidul)
 
 For collaboration or technical questions, please feel free to reach out to us.
 
