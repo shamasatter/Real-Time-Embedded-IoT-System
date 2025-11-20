@@ -177,6 +177,3 @@ We will develop a system to estimate HbA1c and Blood Glucose using a Smart Ring 
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
----
-
-Happy prototyping! 🌐💡📡
