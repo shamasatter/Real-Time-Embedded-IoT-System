@@ -15,7 +15,7 @@ Biomedical and AIoT Researcher
 Embedded Systems & IoT Researcher  
 🔗 [Google Scholar](https://scholar.google.com.au/citations?user=RHXWFqIAAAAJ&hl)
 
-For collaboration or technical queries, please feel free to reach out.
+For collaboration or technical questions, please feel free to reach out to us.
 
 ---
 
@@ -30,7 +30,7 @@ For collaboration or technical queries, please feel free to reach out.
 
 ---
 
-## 📚 Workshop Outline
+## 📚 Outline
 
 | Phase | Title                                       | Description                                                                 |
 |-------|---------------------------------------------|-----------------------------------------------------------------------------|
