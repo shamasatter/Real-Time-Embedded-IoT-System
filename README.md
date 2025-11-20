@@ -127,7 +127,7 @@ Install the following via Arduino Library Manager:
 **Shama Satter**  
 Biomedical and AIoT Researcher  
 🔗 [Google Scholar](https://scholar.google.com/citations?user=AMwr_8sAAAAJ&hl)  
-🔗 [LinkedIn](https://www.linkedin.com/in/shamasatter/) ![LinkedIn Icon](link_to_icon)
+🔗 [LinkedIn](https://www.linkedin.com/in/shamasatter/)
 
 **Raihan Bin Mofidul**  
 Embedded Systems & IoT Researcher  
